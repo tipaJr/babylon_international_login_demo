@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019225935180",
+    "project_id": "babylon-international-demo",
+    "storage_bucket": "babylon-international-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019225935180:android:cd97349ad48cae15d1d3e9",
+        "android_client_info": {
+          "package_name": "com.example.babylon_internship_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gRC0vM6FtrsRQApYxwwmRzsYD9TMS58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
